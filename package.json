@@ -1,6 +1,6 @@
 {
-  "homepage": "https://chumex412.github.io/my-resume",
-  "name": "my-resume",
+  "homepage": "https://chumex412.github.io/react-cv",
+  "name": "react-cv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
