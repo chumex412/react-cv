@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-cv/static/css/main.1313dfc2.chunk.css",
+    "main.js": "/react-cv/static/js/main.eafeae45.chunk.js",
+    "main.js.map": "/react-cv/static/js/main.eafeae45.chunk.js.map",
+    "runtime-main.js": "/react-cv/static/js/runtime-main.99cb32a9.js",
+    "runtime-main.js.map": "/react-cv/static/js/runtime-main.99cb32a9.js.map",
+    "static/js/2.aab3e9d5.chunk.js": "/react-cv/static/js/2.aab3e9d5.chunk.js",
+    "static/js/2.aab3e9d5.chunk.js.map": "/react-cv/static/js/2.aab3e9d5.chunk.js.map",
+    "static/js/3.68df34f4.chunk.js": "/react-cv/static/js/3.68df34f4.chunk.js",
+    "static/js/3.68df34f4.chunk.js.map": "/react-cv/static/js/3.68df34f4.chunk.js.map",
+    "index.html": "/react-cv/index.html",
+    "static/css/main.1313dfc2.chunk.css.map": "/react-cv/static/css/main.1313dfc2.chunk.css.map",
+    "static/js/2.aab3e9d5.chunk.js.LICENSE.txt": "/react-cv/static/js/2.aab3e9d5.chunk.js.LICENSE.txt",
+    "static/media/Zuri-logo.58a702d4.svg": "/react-cv/static/media/Zuri-logo.58a702d4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99cb32a9.js",
+    "static/js/2.aab3e9d5.chunk.js",
+    "static/css/main.1313dfc2.chunk.css",
+    "static/js/main.eafeae45.chunk.js"
+  ]
+}
